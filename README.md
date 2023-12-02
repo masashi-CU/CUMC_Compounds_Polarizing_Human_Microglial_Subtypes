@@ -4,5 +4,6 @@ Scripts that were used for analyses of single-cell RNA-seq of compound-treated m
 
 First author of the paper: Verena C. Haage
 
-Contributor of scripts:
+Contributors of scripts:
 - Natacha Comandante-Lou
+- John F. Tuddenham
